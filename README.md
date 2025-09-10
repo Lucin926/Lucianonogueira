@@ -44,10 +44,9 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e programaç
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens de Programação
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - Nível Avançado
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** - Nível Avançado
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** - Nível Avançado
-
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** - Nível Inciante
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** - Nível Intermediário
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** - Nível Intermediário
 ### Bibliotecas e Frameworks
 - **Python**:   FastAPI
 
@@ -64,21 +63,11 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e programaç
 - **Responsividade**: Todos os projetos web são totalmente responsivos
 - **Performance**: Otimizações para melhor experiência do usuário
 - **Acessibilidade**: Considerações de usabilidade e acessibilidade
-- **Segurança**: Validações e tratamento de erros adequados
 
 ### 🎨 Design e UX
 - Interface moderna e intuitiva
 - Paleta de cores harmoniosa
 - Animações suaves e naturais
-- Feedback visual imediato
-- Design mobile-first
-
-### 📊 Funcionalidades Avançadas
-- Persistência de dados
-- Análise e visualização de dados
-- Algoritmos eficientes
-- Programação orientada a objetos
-- Manipulação de APIs e DOM
 
 ### Portfólio Principal
 ```bash
@@ -88,21 +77,19 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e programaç
 
 ## 📈 Estatísticas do Projeto
 
-- **Total de Linhas de Código**: 2000+
-- **Projetos Funcionais**: 6
-- **Linguagens Utilizadas**: 5
-- **Tempo de Desenvolvimento**: 4 semanas
-- **Recursos Implementados**: 25+
+- **Total de Linhas de Código**: 
+- **Projetos Funcionais**:
+- **Linguagens Utilizadas**: 
+- **Tempo de Desenvolvimento**: x semanas
+- **Recursos Implementados**: 
 
 ## 🎓 Aprendizados e Competências
 
 ### Competências Técnicas
-- **Programação Orientada a Objetos**: Implementação de classes e herança
 - **Estruturas de Dados**: Arrays, listas, dicionários
 - **Algoritmos**: Busca, ordenação, otimização
 - **Banco de Dados**: Persistência de dados e consultas
 - **Desenvolvimento Web**: Frontend completo
-- **Análise de Dados**: Estatística e visualização
 
 ### Competências Comportamentais
 - **Resolução de Problemas**: Abordagem sistemática para debugging
@@ -113,22 +100,15 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e programaç
 
 ## 🌟 Destaques
 
-### ⭐ Projeto Mais Complexo
-**Análise de Dados Python** - Demonstra conhecimento avançado em manipulação de dados, estatística e visualização.
-
 ### ⭐ Melhor Interface
-**Lista de Tarefas Web** - Interface moderna com excelente UX/UI e funcionalidades avançadas.
+**Lista de Tarefas Web** - Interface moderna com excelente UX/UI e funcionalidades boas.
 
-### ⭐ Maior Desafio Técnico
-**Jogo da Cobrinha C++** - Implementação de lógica de jogo complexa com detecção de colisões.
 
 ## 🔮 Próximos Passos
 
 - [ ] Implementar projetos com banco de dados (SQL)
 - [ ] Desenvolver aplicações com frameworks (React, Django)
-- [ ] Criar projetos de Machine Learning
-- [ ] Implementar APIs RESTful
-- [ ] Desenvolver aplicações mobile
+- [ ] Implementar RestAPI
 
 ## 📞 Contato
 
@@ -146,3 +126,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Desenvolvido com ❤️ por Luciano**
 
 *"A programação não é apenas sobre escrever código, é sobre resolver problemas e criar soluções que fazem diferença."*
+
