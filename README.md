@@ -112,18 +112,14 @@ Sou estudante de Ciência da Computação apaixonado por tecnologia e programaç
 
 ## 📞 Contato
 
-- **Email**: 
+- **Email**:  
 - **LinkedIn**: 
 - **GitHub**: 
 - **Telefone**: 
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 **Desenvolvido com ❤️ por Luciano**
 
 *"A programação não é apenas sobre escrever código, é sobre resolver problemas e criar soluções que fazem diferença."*
+
 
